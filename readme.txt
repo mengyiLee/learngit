@@ -4,8 +4,5 @@ git is free software
 wanna see difference between two beta and you？
 git has a mutable index called stage.
 Git tracks changes of files
-<<<<<<< HEAD
-creatint new branch is quick & simple.
-=======
 creatint new branch is quick and simple.
->>>>>>> feature1
+
